@@ -9,12 +9,14 @@
 }
 
 #boleh li {
-    margin-right: 20px;  
+    margin-right: 20px;
+    text-decoration: none;
+
 #boleh li:last-child 
     margin-right: 0;
 }
 body{
-    background-color: blue;
+    background-color: rgb(69, 69, 72);
     color: bisque;
 }
 #hhhh {
@@ -22,7 +24,9 @@ list-style-type: none;
 padding: 0;
 margin: 0;
 display: flex;
-    color: aliceblue;
+    color: white;
+text-decoration: none;
+
 }
 #boleh il{
     margin-right: 20px;
