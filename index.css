@@ -1,0 +1,37 @@
+#boleh {
+    list-style-type: none; 
+    padding: 0;          
+    margin: 0;            
+    display: flex;  
+     background-color: black;   
+     text-shadow: none;
+     color: beiges;
+}
+
+#boleh li {
+    margin-right: 20px;  
+#boleh li:last-child 
+    margin-right: 0;
+}
+body{
+    background-color: blue;
+    color: bisque;
+}
+#hhhh {
+list-style-type: none;
+padding: 0;
+margin: 0;
+display: flex;
+    color: aliceblue;
+}
+#boleh il{
+    margin-right: 20px;
+}
+#boleh il{
+    last-child
+    margin-right: 0;
+}
+#fachri{
+    text-align: center;
+    background-color: black;
+}
